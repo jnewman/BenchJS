@@ -3,7 +3,7 @@
  * @param {number} iterations
  * @param {Array} args
  * @param {T} context
- * @return {int} the time it took, in milliseconds to execute.
+ * @return {int} the time it took, in milliseconds, to execute.
  */
 var bench = function (method, iterations, args, context) {
 
